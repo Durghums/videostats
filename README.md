@@ -1,0 +1,1 @@
+videostats.sh is dependent on ffprobe, part of the ffmpeg bundle. It is meant to be used where the working directory contains one large video file of interest. The script takes no arguments, it automatically chooses the largest file in the working directory and generates a report.
